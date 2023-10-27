@@ -1,4 +1,3 @@
-import HeaderSectionThree from '../sections/ThirdHomeSection/HeaderSectionThree'
 import Preloader from './../components/preloader';
 import Footer from './../components/footer';
 import ScrollToTop from './../components/scrollToTop';
@@ -7,6 +6,7 @@ import FeatureSection from '../sections/ThirdHomeSection/featureSection';
 import ShopProduct from '../sections/ThirdHomeSection/shopProduct';
 import NewsLetter from './../components/newsLetter';
 import BlogThree from '../sections/ThirdHomeSection/blogThree';
+import HeaderSectionThree from './../sections/ThirdHomeSection/headerSectionThree';
 const ThirdHome = () => {
     return (
         <>
