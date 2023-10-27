@@ -7,6 +7,7 @@ import FeatureSection from '../sections/ThirdHomeSection/featureSection';
 import ShopProduct from '../sections/ThirdHomeSection/shopProduct';
 import NewsLetter from './../components/newsLetter';
 import BlogThree from '../sections/ThirdHomeSection/blogThree';
+import HeaderSectionThree from './../sections/ThirdHomeSection/headerSectionThree';
 const ThirdHome = () => {
     return (
         <>
