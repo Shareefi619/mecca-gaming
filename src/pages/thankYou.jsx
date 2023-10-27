@@ -1,7 +1,7 @@
 import MainHeader from './../components/mainHeader';
 import Footer from './../components/footer';
-import ThankYouSection from '../sections/ThankyouSection/ThankYouSection';
 import Preloader from '../components/preloader';
+import ThankYouSection from './../sections/ThankyouSection/thankYouSection';
 const ThankYou = () => {
     const thank = "THANK YOU"
     return (

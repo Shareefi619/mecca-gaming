@@ -1,4 +1,4 @@
-import HeaderSectionThree from '../sections/ThirdHomeSection/HeaderSectionThree'
+import HeaderSectionThree from './../sections/ThirdHomeSection/headerSectionThree';
 import Preloader from './../components/preloader';
 import Footer from './../components/footer';
 import ScrollToTop from './../components/scrollToTop';
